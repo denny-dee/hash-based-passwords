@@ -27,7 +27,7 @@ cd hash-based-passwords
 
 2. Build the application using the following command:
 ```bash
-    go build
+go build
 ```
 
 ## Usage
